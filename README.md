@@ -3,8 +3,8 @@
 # Overview of the analysis:
 
 The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
-Companies that will pay a fee to Amazon and may provide free products to Vine  In order to determine if there is any bias towards favorable reviews from Vine members vs. non-members, we need to identify the percentage of 5 star ratings to total rating. As part of this exercise, we were asked to choose from 50 datasets to extract, transform and load into a dataframe in order to complete our analysis. Throughout this analysis, we use:
- This datasets and use ***PySpark*** to perform the ***ETL*** process to extract the dataset, transform the data, connect to an *** AWS***  ***RDS*** instance, and load the transformed data into pgAdmin.
+Companies that will pay a fee to Amazon and may provide free products to Vine  In order to determine if there is any bias towards favorable reviews from Vine members vs. non-members, we need to identify the percentage of 5 star ratings to total rating.   
+Within this analysis used ***PySpark*** to perform the ***ETL*** process to extract the dataset, transform the data, connect to an ***AWS***  ***RDS*** instance, and load the transformed data into ***postgreSQL***.
 
 # Purpose :
 
@@ -36,11 +36,11 @@ Companies that will pay a fee to Amazon and may provide free products to Vine  I
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-   a. Total vine reviews  430 of 5 star.
+   a. Total vine reviews with 5 star ratings 430.
  
 ![Lottest)](/Resources/paid_5_star_reviews.png)
 
-   b. Non vine reviews of 5 star - 19,233
+   b. Non vine reviews with  5 star ratings - 19,233
 
 ![Unpaid_fivestar)](/Resources/Unpaid_fivestar.png) 
 
