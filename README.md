@@ -25,31 +25,33 @@ Companies that will pay a fee to Amazon and may provide free products to Vine  I
 # Results :
 1. How many Vine reviews and non-Vine reviews were there?
 
-Total number of vine( paid) reviews - 969.
+   a. Total number of vine( paid) reviews - 969.
 
 ![Totalpaidreviews)](/Resources/Total_paid_reviews.png) 
 
-Total non-vine (unpaid) reviews - 43,745
+    
+   b. Total non-vine (unpaid) reviews - 43,745
 
 ![Totalunpaidreviews)](/Resources/Total_unpaid_reviews.png) 
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-Total vine reviews  430 of 5 star.
+   a. Total vine reviews  430 of 5 star.
  
-![Lottest)](/Resources/paid_5_star_reviews.png) 
+![Lottest)](/Resources/paid_5_star_reviews.png)
 
-Non vine reviews of 5 star - 19,233
+   b. Non vine reviews of 5 star - 19,233
 
 ![Unpaid_fivestar)](/Resources/Unpaid_fivestar.png) 
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-Total percentage of vine reviews were 5 star - 44.3 %
+   a.Total percentage of vine reviews were 5 star - 44.3 %
 
-![percentage_paid_reviews)](/Resources/percentage_paid_reviews.png) 
+![percentage_paid_reviews)](/Resources/percentage_paid_reviews.png)
 
-Non-Vine  reviews were 5 star - 43.97%.
+
+   b. Non-Vine  reviews were 5 star - 43.97%.
 
 ![unpaid_percentage)](/Resources/unpaid_percentage.png)
  
